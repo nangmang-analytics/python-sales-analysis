@@ -7,5 +7,10 @@
 - Python (pandas) analysis reproduced SQL results exactly, validating data accuracy across tools
 - ### Revenue Trend Visualization
 ![Revenue by Year](revenue_by_year.png)
+## How to Run This Project
+- Open `analysis.ipynb` in Jupyter Notebook or JupyterLab
+- Run all cells to reproduce the analysis and chart
+- Dataset is included / loaded within the notebook
+
 
 
